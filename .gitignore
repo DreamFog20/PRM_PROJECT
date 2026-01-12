@@ -1,0 +1,6 @@
+"bin/" 
+"obj/" 
+".vs/" 
+"frontend/build/" 
+".dart_tool/" 
+".pub-cache/" 
