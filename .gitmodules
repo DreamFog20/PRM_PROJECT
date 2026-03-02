@@ -4,3 +4,4 @@
 [submodule "backend"]
 	path = backend
 	url = https://github.com/DreamFog20/PRM_BE.git
+	branch = main
